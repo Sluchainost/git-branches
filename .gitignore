@@ -710,3 +710,5 @@ FodyWeavers.xsd
 
 # add by me
 .vscode/
+
+../../../*
